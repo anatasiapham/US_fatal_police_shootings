@@ -3,7 +3,7 @@ import pandas as pd
 
 
 #Import the data set
-fps = pd.read_csv("fatal-police-shootings-data.csv")
+fps = pd.read_csv("fps/fatal-police-shootings-data.csv")
 
 st.header("US Fatal Police Shootings since 2015")
 st.image('police_drawing.jpeg', use_column_width=True)
