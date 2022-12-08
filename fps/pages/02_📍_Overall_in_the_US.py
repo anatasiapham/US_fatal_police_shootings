@@ -5,7 +5,7 @@ from vega_datasets import data
 
 
 #Import the data set
-fps = pd.read_csv("fatal-police-shootings-data.csv")
+fps = pd.read_csv("fps/fatal-police-shootings-data.csv")
 
 st.header('Overall in the United States')
 st.markdown('Adjust chart settings in the sidebar')
