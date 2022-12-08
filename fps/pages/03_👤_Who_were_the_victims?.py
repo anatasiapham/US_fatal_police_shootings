@@ -3,7 +3,7 @@ import pandas as pd
 import altair as alt
 
 #Import the data set
-fps = pd.read_csv("fatal-police-shootings-data.csv")
+fps = pd.read_csv("fps/fatal-police-shootings-data.csv")
 
 #Dictionary for Race
 race_dict = {
