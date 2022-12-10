@@ -1,4 +1,4 @@
-# US_Fatal_Police_Shootings
+# US Fatal Police Shootings
 
 Hi, welcome to this project's reposititory. I hope that means you're interested in what I have learned as well! 
 
